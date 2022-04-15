@@ -6,7 +6,7 @@
 Git Commands
 ============
 
-_A list of my commonly used Git commands_
+_Refference:-_
 
 *If you are interested in this Git aliases, have a look at, found here: https://github.com/joshnh/Git-Commands*
 
