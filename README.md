@@ -2,11 +2,11 @@
 
 ## Complete Playlist
 
-- English
-  - Anisul Islam [Link](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL)
+- **English**
+[Anisul Islam](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL) ,[Anisul Islam](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL) ,
 
-- Bengali
-  - Anisul Islam [Link](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL)
+- **Bengali**
+[Anisul Islam](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL) , [Anisul Islam](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL) ,
 
 ## Topics
 
