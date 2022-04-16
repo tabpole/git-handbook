@@ -8,6 +8,27 @@
 - Bengali
   - Anisul Islam [Link](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL)
 
+## Topics
+
+- **Repository**
+- **Git clone**
+Git clone is a command for downloading existing source code from a remote repository (like Github, for example). In other words, Git clone basically makes an identical copy of the latest version of a project in a repository and saves it to your computer.
+&emsp;&emsp; `git clone <https://name-of-the-repository-link>`
+English : [channel name 1](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL) , [channel name 2](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL)
+Bengali : [channel name 1](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL) , [channel name 2](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL)
+
+- **Git status**
+- **Git add**
+- **Git commit**
+- **Git pull**
+- **Git push**
+- **Git revert**
+- **Git branch**
+- **Git checkout**
+- **Git merge**
+- **Fork**
+- **Pull Request**
+
 ## Git Commands
 
 ### Getting & Creating Projects
@@ -71,4 +92,5 @@
 
 ## References
 
-- Git Commands : [link](https://github.com/joshnh/Git-Commands)
+- Git Topics : [freeCodeCamp](https://www.freecodecamp.org/news/10-important-git-commands-that-every-developer-should-know/)
+- Git Commands : [Joshua Hibbert](https://github.com/joshnh/Git-Commands)
