@@ -2,10 +2,10 @@
 
 ## Complete Playlist
 
-- **English**
+- **English**\
 [Anisul Islam](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL) ,[Anisul Islam](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL) ,
 
-- **Bengali**
+- **Bengali**\
 [Anisul Islam](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL) , [Anisul Islam](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL) ,
 
 ## Topics
