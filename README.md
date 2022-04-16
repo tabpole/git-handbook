@@ -1,16 +1,14 @@
-# git-handbook
-- Git Tutorial (Bangla Tutorial)
-  - Anisul Islam <href>https://www.youtube.com/playlist?list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL-</href> 
+# Git Handbook
 
+## Complete Playlist
 
-Git Commands
-============
+- English
+  - Anisul Islam [Link](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL)
 
-_Refference:-_
+- Bengali
+  - Anisul Islam [Link](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL)
 
-*If you are interested in this Git aliases, have a look at, found here: https://github.com/joshnh/Git-Commands*
-
---
+## Git Commands
 
 ### Getting & Creating Projects
 
@@ -70,3 +68,7 @@ _Refference:-_
 | `git log --summary` | View changes (detailed) |
 | `git log --oneline` | View changes (briefly) |
 | `git diff [source branch] [target branch]` | Preview changes before merging |
+
+## References
+
+- Git Commands : [link](https://github.com/joshnh/Git-Commands)
