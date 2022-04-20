@@ -18,14 +18,31 @@ English : [channel name 1](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qAW
 Bengali : [channel name 1](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL) , [channel name 2](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL)
 
 - **Git status**
+The Git status command gives us all the necessary information about the current branch.\
+&emsp;&emsp; `git clone status` 
 - **Git add**
+When we create, modify or delete a file, these changes will happen in our local and won't be included in the next commit (unless we change the configurations).
+We need to use the git add command to include the changes of a file(s) into our next commit.\
+&emsp;&emsp; `git add .`  
 - **Git commit**
+This is maybe the most-used command of Git. Once we reach a certain point in development, we want to save our changes (maybe after a specific task or issue).\
+&emsp;&emsp; `git commit -m "write your meaningfull message"` 
 - **Git pull**
+The git pull command is used to get updates from the remote repo.\
+&emsp;&emsp; `git pull <remote>`
 - **Git push**
+After committing your changes, the next thing you want to do is send your changes to the remote server. Git push uploads your commits to the remote repository.\
+&emsp;&emsp; `git push <remote> <branch-name>`
 - **Git revert**
 - **Git branch**
+Branches are highly important in the git world. By using branches, several developers are able to work in parallel on the same project simultaneously.\
+&emsp;&emsp; `git branch <branch-name>`
 - **Git checkout**
+This is also one of the most used Git commands. To work in a branch, first you need to switch to it. We use git checkout mostly for switching from one branch to another. We can also use it for checking out files and commits.\
+&emsp;&emsp; `git checkout <name-of-your-branch>`
 - **Git merge**
+When you've completed development in your branch and everything works fine, the final step is merging the branch with the parent branch (dev or master). This is done with the git merge command.\
+&emsp;&emsp; `git merge <branch-name>`
 - **Fork**
 - **Pull Request**
 
