@@ -34,6 +34,8 @@ The git pull command is used to get updates from the remote repo.\
 After committing your changes, the next thing you want to do is send your changes to the remote server. Git push uploads your commits to the remote repository.\
 &emsp;&emsp; `git push <remote> <branch-name>`
 - **Git revert**
+The git revert command is used for undoing changes to a repository's commit history.\
+&emsp;&emsp; `git revert main`  
 - **Git branch**
 Branches are highly important in the git world. By using branches, several developers are able to work in parallel on the same project simultaneously.\
 &emsp;&emsp; `git branch <branch-name>`
@@ -44,7 +46,11 @@ This is also one of the most used Git commands. To work in a branch, first you n
 When you've completed development in your branch and everything works fine, the final step is merging the branch with the parent branch (dev or master). This is done with the git merge command.\
 &emsp;&emsp; `git merge <branch-name>`
 - **Fork**
+A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project.
+Tutorial: https://www.youtube.com/watch?v=FH0wptOLukk&list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL-&index=23
 - **Pull Request**
+Pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add follow-up commits before your changes are merged into the base branch.
+Tutorial: https://www.youtube.com/watch?v=UXEoCfYwI1Q&list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL-&index=14
 
 ## Git Commands
 
