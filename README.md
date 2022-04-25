@@ -26,13 +26,16 @@ We need to use the git add command to include the changes of a file(s) into our 
 &emsp;&emsp; `git add .`  
 - **Git commit**
 This is maybe the most-used command of Git. Once we reach a certain point in development, we want to save our changes (maybe after a specific task or issue).\
-&emsp;&emsp; `git commit -m "write your meaningfull message"` 
+&emsp;&emsp; `git commit -m "write your meaningfull message"`\
+Bangla: [channel name: anisul Islam](https://www.youtube.com/watch?v=gmBKbxKGcn8&list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL-&index=7)
 - **Git pull**
 The git pull command is used to get updates from the remote repo.\
-&emsp;&emsp; `git pull <remote>`
+&emsp;&emsp; `git pull <remote>`\
+Bangla : [channel : Anisul Islam](https://www.youtube.com/watch?v=UXEoCfYwI1Q&list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL-&index=14)
 - **Git push**
 After committing your changes, the next thing you want to do is send your changes to the remote server. Git push uploads your commits to the remote repository.\
-&emsp;&emsp; `git push <remote> <branch-name>`
+&emsp;&emsp; `git push <remote> <branch-name>`\
+Bangla: [channel name: Anisum Islam](https://www.youtube.com/watch?v=UXEoCfYwI1Q&list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL-&index=14)
 - **Git revert**
 The git revert command is used for undoing changes to a repository's commit history.\
 &emsp;&emsp; `git revert main`  
