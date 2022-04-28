@@ -14,7 +14,7 @@
 - **Git clone**
 Git clone is a command for downloading existing source code from a remote repository (like Github, for example). In other words, Git clone basically makes an identical copy of the latest version of a project in a repository and saves it to your computer.\
 &emsp;&emsp; `git clone <https://name-of-the-repository-link>`\
-English : [channel name 1](https://www.youtube.com/watch?v=aHMPn57ZmJo)\
+English : [channel name 1](https://www.youtube.com/watch?v=aHMPn57ZmJo)
 - **Git status**
 The Git status command gives us all the necessary information about the current branch.\
 &emsp;&emsp; `git clone status` 
