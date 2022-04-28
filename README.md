@@ -51,9 +51,11 @@ This is also one of the most used Git commands. To work in a branch, first you n
 - **Git merge**
 When you've completed development in your branch and everything works fine, the final step is merging the branch with the parent branch (dev or master). This is done with the git merge command.\
 &emsp;&emsp; `git merge <branch-name>`\
+English : [channel name: The Net Ninja](https://www.youtube.com/watch?v=XX-Kct0PfFc&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR&index=9)\
 Bangali : [channel name: Anisul Islam](https://www.youtube.com/watch?v=3k8Bq_usPsk&list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL-&index=15)
 - **Fork**
 A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project.\
+English [channel name:The net Ninja](https://www.youtube.com/watch?v=HbSjyU2vf6Y&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR&index=12)\
 Bangali [channel name: Anisul Islam](https://www.youtube.com/watch?v=FH0wptOLukk&list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL-&index=23)
 - **Pull Request**
 Pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add follow-up commits before your changes are merged into the base branch.\
