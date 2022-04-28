@@ -14,9 +14,7 @@
 - **Git clone**
 Git clone is a command for downloading existing source code from a remote repository (like Github, for example). In other words, Git clone basically makes an identical copy of the latest version of a project in a repository and saves it to your computer.\
 &emsp;&emsp; `git clone <https://name-of-the-repository-link>`\
-English : [channel name 1](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL) , [channel name 2](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL)\
-Bengali : [channel name 1](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL) , [channel name 2](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL)
-
+English : [channel name 1](https://www.youtube.com/watch?v=aHMPn57ZmJo)
 - **Git status**
 The Git status command gives us all the necessary information about the current branch.\
 &emsp;&emsp; `git clone status` 
@@ -43,19 +41,24 @@ The git revert command is used for undoing changes to a repository's commit hist
 - **Git branch**
 Branches are highly important in the git world. By using branches, several developers are able to work in parallel on the same project simultaneously.\
 &emsp;&emsp; `git branch <branch-name>`\
+English : [Channel name: The Net Ninja](https://www.youtube.com/watch?v=QV0kVNvkMxc&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR&index=8)\
 Bangali : [channel name: Anisul Islam](https://www.youtube.com/watch?v=3k8Bq_usPsk&list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL-&index=15)
 - **Git checkout**
 This is also one of the most used Git commands. To work in a branch, first you need to switch to it. We use git checkout mostly for switching from one branch to another. We can also use it for checking out files and commits.\
-&emsp;&emsp; `git checkout <name-of-your-branch>`
+&emsp;&emsp; `git checkout <name-of-your-branch>`\
+English : [channel name: Becoming a Data Scientist](https://www.youtube.com/watch?v=UmE0uf5UMzA)
 - **Git merge**
 When you've completed development in your branch and everything works fine, the final step is merging the branch with the parent branch (dev or master). This is done with the git merge command.\
 &emsp;&emsp; `git merge <branch-name>`\
+English : [channel name: The Net Ninja](https://www.youtube.com/watch?v=XX-Kct0PfFc&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR&index=9)\
 Bangali : [channel name: Anisul Islam](https://www.youtube.com/watch?v=3k8Bq_usPsk&list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL-&index=15)
 - **Fork**
 A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project.\
+English [channel name:The net Ninja](https://www.youtube.com/watch?v=HbSjyU2vf6Y&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR&index=12)\
 Bangali [channel name: Anisul Islam](https://www.youtube.com/watch?v=FH0wptOLukk&list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL-&index=23)
 - **Pull Request**
 Pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add follow-up commits before your changes are merged into the base branch.\
+English : [channel name: Simplilearn](https://www.youtube.com/watch?v=z8CYDyFqzp0)\
 Bangali: [channel name: Anisul Islam](https://www.youtube.com/watch?v=UXEoCfYwI1Q&list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL-&index=14)
 
 ## Git Commands
