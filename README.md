@@ -43,7 +43,7 @@ The git revert command is used for undoing changes to a repository's commit hist
 - **Git branch**
 Branches are highly important in the git world. By using branches, several developers are able to work in parallel on the same project simultaneously.\
 &emsp;&emsp; `git branch <branch-name>`\
-English : [Channel name: The Net Ninja](https://www.youtube.com/watch?v=QV0kVNvkMxc&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR&index=8)
+English : [Channel name: The Net Ninja](https://www.youtube.com/watch?v=QV0kVNvkMxc&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR&index=8)\
 Bangali : [channel name: Anisul Islam](https://www.youtube.com/watch?v=3k8Bq_usPsk&list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL-&index=15)
 - **Git checkout**
 This is also one of the most used Git commands. To work in a branch, first you need to switch to it. We use git checkout mostly for switching from one branch to another. We can also use it for checking out files and commits.\
