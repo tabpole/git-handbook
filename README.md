@@ -4,127 +4,98 @@
 
 ## Complete Playlist
 
-- **English**\
+- **English**
 [Anisul Islam](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL) , [Anisul Islam](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL) ,
 
-- **Bengali**\
+- **Bengali**
 [Anisul Islam](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL) , [Anisul Islam](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL) ,
 
 ## Topics
 
 - **Repository**
-- **Git clone**\
+
+&nbsp;
+
+- **Git clone**
 Git clone is a command for downloading existing source code from a remote repository (like Github, for example). In other words, Git clone basically makes an identical copy of the latest version of a project in a repository and saves it to your computer.
-<br>
 
 &emsp;&emsp;&emsp;&emsp; `git clone <https://name-of-the-repository-link>`
-<br>
 
-English : [GitKraken](https://www.youtube.com/watch?v=aHMPn57ZmJo)
-<br>
+&emsp;&emsp; English : [GitKraken](https://www.youtube.com/watch?v=aHMPn57ZmJo)
 
-- **Git status**\
+- **Git status**
 The Git status command gives us all the necessary information about the current branch.
-<br>
 
-&emsp;&emsp;&emsp;&emsp; `git clone status` 
-<br>
+&emsp;&emsp;&emsp;&emsp; `git clone status`
 
-- **Git add**\
+- **Git add**
 When we create, modify or delete a file, these changes will happen in our local and won't be included in the next commit (unless we change the configurations).
 We need to use the git add command to include the changes of a file(s) into our next commit.
-<br>
 
 &emsp;&emsp;&emsp;&emsp; `git add .`
-<br>
 
-Bangli: [Anisul Islam](https://www.youtube.com/watch?v=IDhgZX4esQQ&list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL-&index=5)
-<br>
+&emsp;&emsp; Bangli: [Anisul Islam](https://www.youtube.com/watch?v=IDhgZX4esQQ&list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL-&index=5)
 
-- **Git commit**\
+- **Git commit**
 This is maybe the most-used command of Git. Once we reach a certain point in development, we want to save our changes (maybe after a specific task or issue).
-<br>
 
 &emsp;&emsp;&emsp;&emsp; `git commit -m "write your meaningfull message"`
-<br>
 
-Bangla: [Anisul Islam](https://www.youtube.com/watch?v=gmBKbxKGcn8&list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL-&index=7)
-<br>
+&emsp;&emsp; Bangla: [Anisul Islam](https://www.youtube.com/watch?v=gmBKbxKGcn8&list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL-&index=7)
 
-- **Git pull**\
+- **Git pull**
 The git pull command is used to get updates from the remote repo.
-<br>
 
 &emsp;&emsp;&emsp;&emsp; `git pull <remote>`
-<br>
 
-Bangla : [Anisul Islam](https://www.youtube.com/watch?v=UXEoCfYwI1Q&list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL-&index=14)
-<br>
+&emsp;&emsp; Bangla : [Anisul Islam](https://www.youtube.com/watch?v=UXEoCfYwI1Q&list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL-&index=14)
 
-- **Git push**\
+- **Git push**
 After committing your changes, the next thing you want to do is send your changes to the remote server. Git push uploads your commits to the remote repository.
-<br>
 
 &emsp;&emsp;&emsp;&emsp; `git push <remote> <branch-name>`
-<br>
 
-Bangla: [Anisum Islam](https://www.youtube.com/watch?v=UXEoCfYwI1Q&list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL-&index=14)
-<br>
+&emsp;&emsp; Bangla: [Anisum Islam](https://www.youtube.com/watch?v=UXEoCfYwI1Q&list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL-&index=14)
 
-- **Git revert**\
+- **Git revert**
 The git revert command is used for undoing changes to a repository's commit history.
-<br>
 
 &emsp;&emsp;&emsp;&emsp; `git revert main`  
-<br>
 
-- **Git branch**\
+- **Git branch**
 Branches are highly important in the git world. By using branches, several developers are able to work in parallel on the same project simultaneously.
-<br>
 
 &emsp;&emsp;&emsp;&emsp; `git branch <branch-name>`
-<br>
 
-English : [The Net Ninja](https://www.youtube.com/watch?v=QV0kVNvkMxc&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR&index=8)\
-Bangali : [Anisul Islam](https://www.youtube.com/watch?v=3k8Bq_usPsk&list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL-&index=15)
-<br>
+&emsp;&emsp; English : [The Net Ninja](https://www.youtube.com/watch?v=QV0kVNvkMxc&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR&index=8)
+&emsp;&emsp; Bangali : [Anisul Islam](https://www.youtube.com/watch?v=3k8Bq_usPsk&list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL-&index=15)
 
-- **Git checkout**\
+- **Git checkout**
 This is also one of the most used Git commands. To work in a branch, first you need to switch to it. We use git checkout mostly for switching from one branch to another. We can also use it for checking out files and commits.
-<br>
 
 &emsp;&emsp;&emsp;&emsp; `git checkout <name-of-your-branch>`
-<br>
 
-English : [Becoming a Data Scientist](https://www.youtube.com/watch?v=UmE0uf5UMzA)
-<br>
+&emsp;&emsp; English : [Becoming a Data Scientist](https://www.youtube.com/watch?v=UmE0uf5UMzA)
 
-- **Git merge**\
+- **Git merge**
 When you've completed development in your branch and everything works fine, the final step is merging the branch with the parent branch (dev or master). This is done with the git merge command.
-<br>
 
 &emsp;&emsp;&emsp;&emsp; `git merge <branch-name>`
-<br>
 
-English : [The Net Ninja](https://www.youtube.com/watch?v=XX-Kct0PfFc&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR&index=9)\
-Bangali : [Anisul Islam](https://www.youtube.com/watch?v=3k8Bq_usPsk&list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL-&index=15)
-<br>
+&emsp;&emsp; English : [The Net Ninja](https://www.youtube.com/watch?v=XX-Kct0PfFc&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR&index=9)
+&emsp;&emsp; Bangali : [Anisul Islam](https://www.youtube.com/watch?v=3k8Bq_usPsk&list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL-&index=15)
 
-- **Fork**\
+- **Fork**
 A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project.
-<br>
 
-English [The net Ninja](https://www.youtube.com/watch?v=HbSjyU2vf6Y&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR&index=12)\
-Bangali [Anisul Islam](https://www.youtube.com/watch?v=FH0wptOLukk&list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL-&index=23)
-<br>
+&emsp;&emsp; English [The net Ninja](https://www.youtube.com/watch?v=HbSjyU2vf6Y&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR&index=12)
+&emsp;&emsp; Bangali [Anisul Islam](https://www.youtube.com/watch?v=FH0wptOLukk&list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL-&index=23)
 
-- **Pull Request**\
+- **Pull Request**
 Pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add follow-up commits before your changes are merged into the base branch.
-<br>
 
-English : [Simplilearn](https://www.youtube.com/watch?v=z8CYDyFqzp0)\
-Bangali: [Anisul Islam](https://www.youtube.com/watch?v=UXEoCfYwI1Q&list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL-&index=14)
-<br>
+&emsp;&emsp; English : [Simplilearn](https://www.youtube.com/watch?v=z8CYDyFqzp0)
+&emsp;&emsp; Bangali: [Anisul Islam](https://www.youtube.com/watch?v=UXEoCfYwI1Q&list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL-&index=14)
 
 ## Git Commands
 
