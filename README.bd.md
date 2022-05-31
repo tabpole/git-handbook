@@ -5,7 +5,7 @@
 ## সম্পূর্ণ প্লেলিস্ট
 
 - **ইংরেজি**\
-[আনিসুল ইসলাম](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL) ,[আনিসুল ইসলাম](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL) ,
+[আনিসুল ইসলাম](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL) , [আনিসুল ইসলাম](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL) ,
 
 - **বাংলা**\
 [আনিসুল ইসলাম](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL) , [আনিসুল ইসলাম](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL) ,
@@ -19,22 +19,24 @@
 গিট ক্লোন হল রিমোট রিপোজিটরি থেকে বিদ্যমান সোর্স কোড ডাউনলোড করার জন্য একটি কমান্ড (যেমন GitHub)। অন্য কথায়, গিট ক্লোন একটি সংগ্রহস্থলে একটি প্রজেক্টের সর্বশেষ সংস্করণের একটি অভিন্ন অনুলিপি তৈরি করে এবং এটি আপনার কম্পিউটারে সংরক্ষণ করে।
 <br>
 
-&emsp;&emsp; `git clone <https://name-of-the-repository-link>`
-
+&emsp;&emsp;&emsp;&emsp; `git clone <https://name-of-the-repository-link>`
+<br>
 
 &emsp; ইংরেজি : [GitKraken](https://www.youtube.com/watch?v=aHMPn57ZmJo)
 - **Git status**
 গিট স্ট্যাটাস কমান্ড আমাদের বর্তমান ব্রাঞ্চ সম্পর্কে সমস্ত প্রয়োজনীয় তথ্য দেয়।
-\
-&emsp;&emsp; `git clone status` 
+<br>
+
+&emsp;&emsp;&emsp;&emsp; `git clone status` 
 <br>
 
 - **Git add**\
 যখন আমরা একটি ফাইল তৈরি, পরিবর্তন বা মুছে ফেলি, তখন এই পরিবর্তনগুলি আমাদের স্থানীয়ভাবে ঘটবে এবং পরবর্তী পরিবর্তনে অন্তর্ভুক্ত করা হবে না (যদি না আমরা কনফিগারেশন পরিবর্তন করি)। আমাদের পরবর্তী পরিবর্তনে এ ফাইল(গুলি) এর পরিবর্তনগুলি অন্তর্ভুক্ত করতে আমাদের গিট অ্যাড কমান্ডটি ব্যবহার করতে হবে।
 <br>
 
-&emsp;&emsp; `git add .`
-\
+&emsp;&emsp;&emsp;&emsp; `git add .`
+<br>
+
 বাংলা: [আনিসুল ইসলাম](https://www.youtube.com/watch?v=IDhgZX4esQQ&list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL-&index=5)
 <br>
 
@@ -42,8 +44,9 @@
 এটি সম্ভবত গিটের সর্বাধিক ব্যবহৃত কমান্ড। একবার আমরা ডেভলপমেন্টের একটি নির্দিষ্ট পয়েন্টে পৌঁছে গেলে, আমরা আমাদের পরিবর্তনগুলি সংরক্ষণ করতে চাই (হয়তো একটি নির্দিষ্ট কাজ বা ইসুর পরে)।
 <br>
 
-&emsp;&emsp; `git commit -m "write your meaningfull message"`
-\
+&emsp;&emsp;&emsp;&emsp; `git commit -m "write your meaningfull message"`
+<br>
+
 বাংলা: [আনিসুল ইসলাম](https://www.youtube.com/watch?v=gmBKbxKGcn8&list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL-&index=7)
 <br>
 
@@ -51,8 +54,9 @@
 গিট পুল কমান্ডটি রিমোট রেপো থেকে আপডেট পেতে ব্যবহৃত হয়।
 <br>
 
-&emsp;&emsp; `git pull <remote>`
-\
+&emsp;&emsp;&emsp;&emsp; `git pull <remote>`
+<br>
+
 বাংলা : [আনিসুল ইসলাম](https://www.youtube.com/watch?v=UXEoCfYwI1Q&list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL-&index=14)
 <br>
 
@@ -60,8 +64,9 @@
 আপনার পরিবর্তনগুলি করার পরে, আপনি যা করতে চান তা হল আপনার পরিবর্তনগুলি রিমোট সার্ভারে পাঠান ৷ গিট পুশ রিমোট রিপোজিটরিতে আপনার কমিট আপলোড করে।
 <br>
 
-&emsp;&emsp; `git push <remote> <branch-name>`
-\
+&emsp;&emsp;&emsp;&emsp; `git push <remote> <branch-name>`
+<br>
+
 বাংলা: [আনিসুল ইসলাম](https://www.youtube.com/watch?v=UXEoCfYwI1Q&list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL-&index=14)
 <br>
 
@@ -69,15 +74,16 @@
 গিট রিভার্ট কমান্ডটি রিপোজিটরির কমিট হিস্টরির পরিবর্তনগুলি পূর্বাবস্থায় ফিরিয়ে আনার জন্য ব্যবহৃত হয়।
 <br>
 
-&emsp;&emsp; `git revert main`
+&emsp;&emsp;&emsp;&emsp; `git revert main`
 <br>  
 
 - **Git branch**\
 গিট বিশ্বে ব্রাঞ্চগুলি অত্যন্ত গুরুত্বপূর্ণ । ব্রাঞ্চগুলি ব্যবহার করে, বেশ কয়েকজন ডেভলপার একই প্রজেক্টে একই সাথে সমান্তরালভাবে কাজ করতে সক্ষম হয়।
 <br>
 
-&emsp;&emsp; `git branch <branch-name>`
-\
+&emsp;&emsp;&emsp;&emsp; `git branch <branch-name>`
+<br>
+
 ইংরেজি : [নেট নিনজা](https://www.youtube.com/watch?v=QV0kVNvkMxc&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR&index=8)\
 বাংলা : [আনিসুল ইসলাম](https://www.youtube.com/watch?v=3k8Bq_usPsk&list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL-&index=15)
 <br>
@@ -86,8 +92,9 @@
 এটি সবচেয়ে বেশি ব্যবহৃত গিট কমান্ডগুলির মধ্যে একটি । একটি ব্রাঞ্চে কাজ করার জন্য, প্রথমে আপনাকে এটিতে যেতে হবে। আমরা বেশিরভাগই এক ব্রাঞ্চ থেকে অন্য ব্রাঞ্চে স্যুইচ করার জন্য গিট চেকআউট ব্যবহার করি । আমরা ফাইল এবং কমিট চেক আউট জন্য এটি ব্যবহার করতে পারি ।
 <br>
 
-&emsp;&emsp; `git checkout <name-of-your-branch>`
-\
+&emsp;&emsp;&emsp;&emsp; `git checkout <name-of-your-branch>`
+<br>
+
 ইংরেজি : [Becoming a Data Scientist](https://www.youtube.com/watch?v=UmE0uf5UMzA)
 <br>
 
@@ -95,8 +102,9 @@
 আপনি যখন আপনার ব্রাঞ্চে ডেভলপমেন্ট সম্পন্ন করেন এবং সবকিছু ঠিকঠাক কাজ করে, তখন চূড়ান্ত ধাপ হল ব্রাঞ্চটিকে মূল ব্রাঞ্চের (dev বা মাস্টার) সাথে একীভূত করা । এটি গিট মার্জ কমান্ড দিয়ে করা হয়।
 <br>
 
-&emsp;&emsp; `git merge <branch-name>`
-\
+&emsp;&emsp;&emsp;&emsp; `git merge <branch-name>`
+<br>
+
 ইংরেজি : [নেট নিনজা](https://www.youtube.com/watch?v=XX-Kct0PfFc&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR&index=9)\
 বাংলা : [আনিসুল ইসলাম](https://www.youtube.com/watch?v=3k8Bq_usPsk&list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL-&index=15)
 <br>
